@@ -1,4 +1,4 @@
 # abhijeet-demo
 This is my first git repository.
 <br>
-Author - Abhijeet Kumar
+Author - Abhijeet Kumar (Computer Science)
